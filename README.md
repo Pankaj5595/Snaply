@@ -1,13 +1,13 @@
 # 📱 Snaply - Social Media Platform
 
-A modern social media platform built with Vite, React, TypeScript, and Appwrite. Connect, share, and engage with a seamless user experience.
+A dynamic social networking application engineered with Vite, React, TypeScript, and Appwrite. Designed to provide a streamlined interface for connecting, sharing moments, and interacting in real-time.
 
 ## 🚀 Features
 
-- **Post Creation & Engagement**: Create, like, and save posts
-- **Infinite Scrolling**: Smooth content browsing experience
-- **Real-time Updates**: Instant feed and activity updates
-- **Responsive Design**: Works seamlessly across all devices
+- **Interactive Feed & Engagement**: Seamlessly create posts, like content, and save favorites
+- **Continuous Content Flow**: Optimized infinite scrolling for uninterrupted browsing
+- **Live Synchronization**: Instantaneous feed updates and activity tracking
+- **Adaptive UI/UX**: Fully responsive layout optimized for mobile and desktop
 
 ## 🛠️ Tech Stack
 
@@ -30,12 +30,11 @@ A modern social media platform built with Vite, React, TypeScript, and Appwrite.
 
 ## 🔧 Installation
 
-1. Clone the repository
+1. Clone the project locally
 ```bash
-git clone https://github.com/raghavkhatri413/Snaply_full_stack_social_media_app.git
+git clone [https://github.com/raghavkhatri413/Snaply_full_stack_social_media_app.git](https://github.com/raghavkhatri413/Snaply_full_stack_social_media_app.git)
 cd snaply
 ```
-
 2. Install dependencies
 ```bash
 npm install
@@ -79,10 +78,11 @@ npm run preview  # Preview production build
 
 ## 🌟 Key Features
 
-### Post Management
-- Create and share posts
-- Like and save functionality
-- Real-time engagement tracking
+### Content Management
+- Robust post creation tools
+- One-click like and bookmarking system
+- Live interaction metrics
+
 
 ### Infinite Scrolling
 - Efficient data fetching
